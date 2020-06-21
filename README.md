@@ -2,7 +2,7 @@
 In this project the standard Backtracking Algorithm for solving Sudokus with arbitrary size is implemented.
 
 ## Example Usage
-After initialization, models are trained via the function ```train``` and can be used for prediction via ```predict```.
+Set up a sample Sudoku and run the algorithm.
 ```
 sample_grid = np.array([
     [3, 6, 1, 0, 7, 0, 0, 0, 0],
